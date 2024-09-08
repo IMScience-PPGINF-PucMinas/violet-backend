@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TccViolet1Application {
+public class TccVioletBackendApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TccViolet1Application.class, args);
+		SpringApplication.run(TccVioletBackendApplication.class, args);
 	}
 
 }
