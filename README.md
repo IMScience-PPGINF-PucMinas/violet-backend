@@ -10,6 +10,9 @@ O projeto Violet visa auxiliar usuários a interagir de forma mais eficaz com o 
 ## Back-end
 Desenvolvido em Java, utilizando uma abordagem *non-blocking thread* para permitir o processamento assíncrono das requisições através do módulo WebFlux do Spring Framework.
 
+## Front-end
+O repositório do Front-end está disponível [aqui](https://github.com/LucasHenriqueLS/tcc-violet-frontend). 
+
 ## Artigo
 
 O artigo completo, intitulado **"Violet: Uma Arquitetura para Facilitar a Interação e Acesso a Informações por meio de Perguntas sobre o Mundo Real"**, pode ser encontrado no arquivo PDF disponível [aqui](https://drive.google.com/file/d/12kNDulllgauURLNhjtFd3pgx1bu9prhE/view?usp=sharing).
